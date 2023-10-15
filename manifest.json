@@ -16,6 +16,9 @@
 			]
 		}
 	],
+	"web_accessible_resources": [
+		"icons/niivue_icon.png"
+	],
 	"browser_action": {
 		"default_icon": {
 			"200": "icons/niivue_icon.png"
