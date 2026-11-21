@@ -1,5 +1,7 @@
 # niivue-web-extension
 
+**Research use only. Not a medical device. Not intended for diagnosis, treatment or clinical decisions.**
+
 WIP to open links to images with niivue
 
 ## Test links
